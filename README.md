@@ -130,7 +130,9 @@ Log do SAM na subida: `Initializing the lambda functions containers` e, a cada c
 
 ## Evidências
 
-Os prints estão na pasta [evidencias/](evidencias/). Vídeo: (link)
+Os prints estão na pasta [evidencias/](evidencias/).
+
+Vídeo (até 3 min): https://luvaplay.com.br/game/Serverless.mp4
 
 ## Uso de IA
 
