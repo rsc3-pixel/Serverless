@@ -244,3 +244,6 @@ $RECYCLE.BIN/
 # End of https://www.gitignore.io/api/osx,linux,python,windows,pycharm,visualstudiocode
 # Saída do sam build
 .aws-sam/
+
+# Contexto local de sessões com IA (não versionar)
+CLAUDE.md
